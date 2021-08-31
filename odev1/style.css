@@ -1,0 +1,35 @@
+h1{
+    font-size: 40px;
+    color: purple;
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 60px;
+   
+}
+p{
+    font-size:20px;
+}
+div{
+    text-align: center;
+}
+h3{
+    font-size:20px;
+    color:yellow;
+}
+
+h2{
+    font-size:30px;
+    color:blue;
+    font-family: sans-serif;
+}
+.center
+{
+    margin-left:auto;
+    margin-right:auto;
+
+    width:2%;
+
+   background-color:white;
+}
